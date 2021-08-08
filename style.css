@@ -6,6 +6,8 @@ body {
     background-image: url("images/splash.jpg");
     background-position: center;
     background-size: cover;
+    background-width: 100%;
+    background-height: 100%;
 }
 h1 {
     text-align: center;
